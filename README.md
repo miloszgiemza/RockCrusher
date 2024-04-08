@@ -1,0 +1,1 @@
+Repository root folder contains game installation file (APK) and unity project folder. Rock Crusher is a game looking similar to the popular Fruit Ninja with original mechanics and playstyle. The game was created to showcase my programming skills but it's fully playable with thought out gameplay mechanics though current amount of content makes it more of a prototype.
