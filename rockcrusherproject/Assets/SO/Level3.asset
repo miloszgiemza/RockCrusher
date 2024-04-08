@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0553946ab19e58c4daea7c520fc28c48, type: 3}
+  m_Name: Level3
+  m_EditorClassIdentifier: 
+  startDelay: 2
+  repeats: 1
+  wavesWithDelay:
+  - wave: {fileID: 3576539149848510787, guid: 263b116c9b0ce4b44aebe8080b59c2e3, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 4859891118399768333, guid: 4bd577055c20f5a4d9c552bafe8f8f52, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 4672721982640072437, guid: 7a95b7ded716b934fa38424a5dca7c91, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 4952840099176665858, guid: 1b522c59baf938e4c81382bab2eb679e, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 4859891118399768333, guid: 4bd577055c20f5a4d9c552bafe8f8f52, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 4952840099176665858, guid: 1b522c59baf938e4c81382bab2eb679e, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 3041585515600424935, guid: 0415d5b18171aa74e85d32a9f54eecce, type: 3}
+    delayAfter: 0
+  standardDeayAfter: 7
+  levelNumber: 3
+  levelBackground: {fileID: 21300000, guid: 64a379bef9578524e9dc30b189084724, type: 3}
+  scoreRequiredToWin: 205

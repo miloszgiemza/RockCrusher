@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0553946ab19e58c4daea7c520fc28c48, type: 3}
+  m_Name: Level8
+  m_EditorClassIdentifier: 
+  startDelay: 2
+  repeats: 2
+  wavesWithDelay:
+  - wave: {fileID: 3576539149848510787, guid: 263b116c9b0ce4b44aebe8080b59c2e3, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 4331591478281426161, guid: e9d996ec35d92324f97d97c527aa23b5, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 678445641132869196, guid: 4e92955dafaa9a44a924d491f490ae30, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 678445641132869196, guid: 4e92955dafaa9a44a924d491f490ae30, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 1470623451426170218, guid: 35c911f9d3695ab49b3c88541dfebed6, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 700139710991376940, guid: 4d63a1f45d8564e42841eefec5235823, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 7113494165213369157, guid: 60519e9b3e6f0cf43b4c5070487693a2, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 2120868905275799532, guid: 0fb36296e40e03449b2a1b16b640b8d7, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 4313124163053372565, guid: 399604c21f6db764abba1118d22f09d7, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 700139710991376940, guid: 4d63a1f45d8564e42841eefec5235823, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 678445641132869196, guid: 4e92955dafaa9a44a924d491f490ae30, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 1470623451426170218, guid: 35c911f9d3695ab49b3c88541dfebed6, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 700139710991376940, guid: 4d63a1f45d8564e42841eefec5235823, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 678445641132869196, guid: 4e92955dafaa9a44a924d491f490ae30, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 678445641132869196, guid: 4e92955dafaa9a44a924d491f490ae30, type: 3}
+    delayAfter: 0
+  - wave: {fileID: 700139710991376940, guid: 4d63a1f45d8564e42841eefec5235823, type: 3}
+    delayAfter: 0
+  standardDeayAfter: 7
+  levelNumber: 8
+  levelBackground: {fileID: 21300000, guid: 0541cde32a6b54e4da0977a3d95aae18, type: 3}
+  scoreRequiredToWin: 1830
